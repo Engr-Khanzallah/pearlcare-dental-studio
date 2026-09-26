@@ -10,6 +10,9 @@ form (mock/local state), a floating WhatsApp button, and a floating
 **multilingual AI Dental Assistant** (English / Urdu script / Roman Urdu)
 built with a rule-based demo engine — no API key required to run it.
 
+## Client URL/Frontend URL
+https://pearlcare-dental-studio.netlify.app/
+
 ## Project structure
 
 ```
